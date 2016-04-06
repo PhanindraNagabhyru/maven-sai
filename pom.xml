@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.sonatype</groupId>
   <artifactId>maven-sai</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>maven-sai</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -30,5 +29,6 @@
 	<developerConnection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git </developerConnection>
 	<connection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git</connection>
 	
+    <tag>maven-sai-1.0</tag>
   </scm>
 </project>
