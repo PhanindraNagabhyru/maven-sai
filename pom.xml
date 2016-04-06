@@ -3,7 +3,7 @@
   <groupId>org.sonatype</groupId>
   <artifactId>maven-sai</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>maven-sai</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -29,6 +29,6 @@
 	<developerConnection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git </developerConnection>
 	<connection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git</connection>
 	
-    <tag>maven-sai-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
