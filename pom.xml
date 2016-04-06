@@ -26,9 +26,9 @@
     
   </build>
   <scm>
-    <url>https://github.com/PhanindraNagabhyru/maven-sai.git</url>
-	<developerConnection>https://github.com/PhanindraNagabhyru/maven-sai.git </developerConnection>
-	<connection>https://github.com/PhanindraNagabhyru/maven-sai.git</connection>
+    <url>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git</url>
+	<developerConnection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git </developerConnection>
+	<connection>scm:git:https://github.com/PhanindraNagabhyru/maven-sai.git</connection>
 	
   </scm>
 </project>
